@@ -1,6 +1,8 @@
 # Visualizing Geospatial Data in Python
 This repository contains jupyter notebooks documenting my notes during the DataCamp course, [Visualizing Geospatial Data in Python](https://app.datacamp.com/learn/courses/visualizing-geospatial-data-in-python). Please feel free to message me regarding anything wrongly written, not explained clearly, or any other issue.
 
+Note: Make sure to follow [this](https://geopandas.org/en/stable/getting_started/install.html), [this](https://gis.stackexchange.com/questions/330840/error-installing-geopandas/330841) or [this](https://www.youtube.com/watch?v=H1A5mZDoXYg) for installing `geopandas` as it is not quite straight-forward specially using `pip`. You may want to download specific versions of the dependensies that are compatable with eachother instead of the latest version of each dependency.
+
 Contents:
 
 00 - Building 2-layer maps : combining polygons and scatterplots
@@ -22,4 +24,5 @@ Contents:
   * What is choropleth?
   * Choropleths with geopandas
   * Choropleths with folium
+
 
